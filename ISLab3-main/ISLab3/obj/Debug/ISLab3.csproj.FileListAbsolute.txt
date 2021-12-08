@@ -1,0 +1,30 @@
+C:\Users\User\source\repos\ISLab3\ISLab3\bin\Debug\ISLab3.exe.config
+C:\Users\User\source\repos\ISLab3\ISLab3\bin\Debug\ISLab3.exe
+C:\Users\User\source\repos\ISLab3\ISLab3\bin\Debug\ISLab3.pdb
+C:\Users\User\source\repos\ISLab3\ISLab3\obj\Debug\ISLab3.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ISLab3\ISLab3\obj\Debug\ISLab3.Form1.resources
+C:\Users\User\source\repos\ISLab3\ISLab3\obj\Debug\ISLab3.Properties.Resources.resources
+C:\Users\User\source\repos\ISLab3\ISLab3\obj\Debug\ISLab3.csproj.GenerateResource.cache
+C:\Users\User\source\repos\ISLab3\ISLab3\obj\Debug\ISLab3.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ISLab3\ISLab3\obj\Debug\ISLab3.exe
+C:\Users\User\source\repos\ISLab3\ISLab3\obj\Debug\ISLab3.pdb
+C:\Users\maksi\Downloads\ISLab3-main\ISLab3-main\ISLab3\bin\Debug\ISLab3.exe.config
+C:\Users\maksi\Downloads\ISLab3-main\ISLab3-main\ISLab3\bin\Debug\ISLab3.exe
+C:\Users\maksi\Downloads\ISLab3-main\ISLab3-main\ISLab3\bin\Debug\ISLab3.pdb
+C:\Users\maksi\Downloads\ISLab3-main\ISLab3-main\ISLab3\obj\Debug\ISLab3.csproj.AssemblyReference.cache
+C:\Users\maksi\Downloads\ISLab3-main\ISLab3-main\ISLab3\obj\Debug\ISLab3.Form1.resources
+C:\Users\maksi\Downloads\ISLab3-main\ISLab3-main\ISLab3\obj\Debug\ISLab3.Properties.Resources.resources
+C:\Users\maksi\Downloads\ISLab3-main\ISLab3-main\ISLab3\obj\Debug\ISLab3.csproj.GenerateResource.cache
+C:\Users\maksi\Downloads\ISLab3-main\ISLab3-main\ISLab3\obj\Debug\ISLab3.csproj.CoreCompileInputs.cache
+C:\Users\maksi\Downloads\ISLab3-main\ISLab3-main\ISLab3\obj\Debug\ISLab3.exe
+C:\Users\maksi\Downloads\ISLab3-main\ISLab3-main\ISLab3\obj\Debug\ISLab3.pdb
+C:\Individual_Tasks\Умные системы\ИС недвижимость\ISLab3-main\ISLab3-main\ISLab3\bin\Debug\ISLab3.exe.config
+C:\Individual_Tasks\Умные системы\ИС недвижимость\ISLab3-main\ISLab3-main\ISLab3\bin\Debug\ISLab3.exe
+C:\Individual_Tasks\Умные системы\ИС недвижимость\ISLab3-main\ISLab3-main\ISLab3\bin\Debug\ISLab3.pdb
+C:\Individual_Tasks\Умные системы\ИС недвижимость\ISLab3-main\ISLab3-main\ISLab3\obj\Debug\ISLab3.csproj.AssemblyReference.cache
+C:\Individual_Tasks\Умные системы\ИС недвижимость\ISLab3-main\ISLab3-main\ISLab3\obj\Debug\ISLab3.Form1.resources
+C:\Individual_Tasks\Умные системы\ИС недвижимость\ISLab3-main\ISLab3-main\ISLab3\obj\Debug\ISLab3.Properties.Resources.resources
+C:\Individual_Tasks\Умные системы\ИС недвижимость\ISLab3-main\ISLab3-main\ISLab3\obj\Debug\ISLab3.csproj.GenerateResource.cache
+C:\Individual_Tasks\Умные системы\ИС недвижимость\ISLab3-main\ISLab3-main\ISLab3\obj\Debug\ISLab3.csproj.CoreCompileInputs.cache
+C:\Individual_Tasks\Умные системы\ИС недвижимость\ISLab3-main\ISLab3-main\ISLab3\obj\Debug\ISLab3.exe
+C:\Individual_Tasks\Умные системы\ИС недвижимость\ISLab3-main\ISLab3-main\ISLab3\obj\Debug\ISLab3.pdb
